@@ -13,3 +13,6 @@ if(color == 'blue'):
 
 
 print('active feature above')
+
+for number in range(11):
+	print(number)
